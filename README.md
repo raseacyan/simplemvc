@@ -1,2 +1,2 @@
 # simplemvc
-just simple php mvc pattern to start
+just simple php custom mvc to start
